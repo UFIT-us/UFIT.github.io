@@ -1,1 +1,1 @@
-### The Urban Food Innovations Team official website 🌱🍎💡🍽️🌍
+### The Urban Food Innovations Team 🌱🍎💡🍽️🌍
