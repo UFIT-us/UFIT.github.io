@@ -4,7 +4,7 @@ project:
 
 website:
   page-navigation: true
-  title: "Ohio Urban Food Sistems"
+  title: "UFIT-Ohio Urban Food Sistems"
   site-url: "https://FernandaKrupek_UFIT.com/"
   page-footer: "Website made with Quarto, by Fernanda Krupek." 
 
