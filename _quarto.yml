@@ -4,7 +4,7 @@ project:
 
 website:
   page-navigation: true
-  title: "UFIT - Ohio Urban Food Sistems"
+  title: "💡🍽🍎🌱 UFIT 🌱🍎🍽💡"
   page-footer: "Website made with Quarto" 
 
   navbar:
